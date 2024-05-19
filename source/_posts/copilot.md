@@ -3,14 +3,18 @@ title: 如何拥有一个自己的New Bing?
 date: 2024-05-18 17:20:45
 tags:
 ---
-<div align="center">
 # 介绍
+<div align="center">
+  
 ![Go-Proxy-BingAI](header.png)
-使用GitHub上的大佬:Harry-zklcdz[Go-Proxy-BingAI](https://github.com/Harry-zklcdz/go-proxy-bingai)现在Copilot已可以用于对话，绘画（登陆），唱歌（开启插件），并可以使用 GPT-4 Turbo 进行回答，国内可用
+
+使用GitHub上的大佬:Harry-zklcdz[Go-Proxy-BingAI](https://github.com/Harry-zklcdz/go-proxy-bingai)现在Copilot已可以用于对话，绘画（登陆），唱歌（开启插件），并可以使用 GPT-4 Turbo 进行回答，国内可用，该项目已在GitHub上获得大量Star与Fork。
+</div>
+
 # 开始
 首先，你要有一个GitHub账号和一个良好的上网环境或是魔法，这是以前的基础，若是不会，请出门右拐百度或谷歌
 以下是原作者内容
-</div>
+  
 # Go-Proxy-BingAI
 <div align="center">
 基于微软 New Bing 定制的微软 BingAI 演示站点
@@ -159,16 +163,3 @@ tags:
 >
 > Please follow the requirements of the [《Interim Measures for the Management of Generative AI Services》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm) when using it in Chinese Mainland, and do not provide any unregistered generative AI services to the public in China. The developer of this project is not responsible for any consequences arising from the use of this project.
 
-
-## ⭐️ Star History
-
-<div align="center">
-
-<a href="https://star-history.com/#Harry-zklcdc/go-proxy-bingai&Date">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Harry-zklcdc/go-proxy-bingai&type=Date&theme=dark" />
-<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Harry-zklcdc/go-proxy-bingai&type=Date" />
-<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Harry-zklcdc/go-proxy-bingai&type=Date" />
-</picture>
-</a>
-</div>
