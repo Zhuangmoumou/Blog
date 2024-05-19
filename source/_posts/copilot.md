@@ -8,13 +8,20 @@ tags: AI
   
 ![Go-Proxy-BingAI](header.png)
 
-使用GitHub上的大佬:Harry-zklcdz的[Go-Proxy-BingAI](https://github.com/Harry-zklcdz/go-proxy-bingai)项目。现在Copilot已可以用于对话，绘画（登陆），唱歌（开启插件），并可以使用 GPT-4 Turbo 进行回答，国内可用，该项目已在GitHub上获得大量Star与Fork。建议访问官网：<https://www.b1ng.chat>
+> 这使用GitHub上的大佬:Harry-zklcdz的[Go-Proxy-BingAI](https://github.com/Harry-zklcdz/go-proxy-bingai) 项目[^1]。
+[^1]:可见原作者项目，但是已经停止维护<https://github.com/adams549659584/go-proxy-bingai>
+
+现在Copilot已可以用于对话，绘画（登陆），唱歌（开启插件），并可以使用 GPT-4 Turbo 进行回答，国内可用，该项目已在GitHub上获得大量Star与Fork。建议访问官网：<https://www.b1ng.chat>
 </div>
 
-# 开始
-首先，你要有一个GitHub账号和一个良好的上网环境或是魔法，这是以前的基础，若是不会，请出门右拐百度或谷歌
+***
 
-**以下是原作者内容**
+# 开始
+> 首先，你要有一个GitHub账号和一个良好的上网环境或是魔法
+
+> 这是一切的基础，若是不会，请出门右拐百度或谷歌
+
+<u>**以下是原作者内容**</u>
   
 # Go-Proxy-BingAI
 <div align="center">
